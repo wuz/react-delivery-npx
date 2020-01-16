@@ -1,8 +1,6 @@
 #!/usr/bin/env node
 
-const FEED = "https://feeds.simplecast.com/CFoB8_L_";
-const MP3 =
-  "https://cdn.simplecast.com/audio/203532/20353245-70c1-4ce1-99f1-1b04ab09427c/9d768eb6-b7e7-4a4e-9952-739da7cff46f/react_delivery_1_lindsey_kopacz_6_24_19_10_48_pm_tc.mp3?aid=rss_feed";
+const FEED = "https://pinecast.com/feed/react-delivery";
 
 const Parser = require("rss-parser");
 const parser = new Parser();
