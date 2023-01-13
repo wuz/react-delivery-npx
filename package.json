@@ -17,6 +17,6 @@
     "request": "^2.88.0",
     "rss-parser": "^3.7.1",
     "speaker": "^0.4.2",
-    "terminal-kit": "^1.28.2"
+    "terminal-kit": "^2.1.8"
   }
 }
